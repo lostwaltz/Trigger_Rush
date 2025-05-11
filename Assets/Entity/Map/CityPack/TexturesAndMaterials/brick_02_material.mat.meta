@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7c0f6180d7604c47bd5aed9bf37e7e7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254322
+  packageName: Low Poly 3D City Pack
+  packageVersion: 1.0
+  assetPath: Assets/3DModels/CityPack/TexturesAndMaterials/brick_02_material.mat
+  uploadId: 582499

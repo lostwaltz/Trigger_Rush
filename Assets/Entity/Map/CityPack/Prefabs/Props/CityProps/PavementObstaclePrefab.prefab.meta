@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1fee465925c56b4c8d263b1d4de816d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254322
+  packageName: Low Poly 3D City Pack
+  packageVersion: 1.0
+  assetPath: Assets/3DModels/CityPack/Prefabs/Props/CityProps/PavementObstaclePrefab.prefab
+  uploadId: 582499

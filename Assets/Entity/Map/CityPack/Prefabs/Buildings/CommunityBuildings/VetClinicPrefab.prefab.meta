@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40f045e256a91084ca4903f8e3d6d27b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254322
+  packageName: Low Poly 3D City Pack
+  packageVersion: 1.0
+  assetPath: Assets/3DModels/CityPack/Prefabs/Buildings/CommunityBuildings/VetClinicPrefab.prefab
+  uploadId: 582499
